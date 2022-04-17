@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+}
+
+.hautDePage {
+  background-color: rgb(3, 109, 246);
+  display: flex;
+  align-items: center;
+  color: white;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.buttonsabo {
+  border-radius : 10px ;
+  background-color: white;
+  border: none;
+}
+
+.milieuDePage h3 {
+  color: rgb(3, 109, 246);
+}
+
+.p1 {
+  margin: 50px;
+}
+
+.boxMilieuDePage {
+  color: white;
+  display: grid;
+  margin-left: auto;
+  margin-right: auto;
+  justify-items: center;
+  background-color: rgb(3, 109, 246);
+  height: 300px;
+  width: 300px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 10px 5px 5px grey;
+}
+
+.milieuDePage2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.enSavoirPlus {
+  background-color: white;
+  color: rgb(3, 109, 246);
+}
+
+.basDePage {
+  position: absolute;
+  bottom: 0;
+  background-color: rgb(3, 109, 246);
+  color: white;
+  width: 100%;
+  display: flex;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-evenly;
+}
+
+.basDePage h3 {
+  flex-direction: row;
+}
+
+.droitsReserve {
+  display: flex;
+  justify-content: center;
+}
